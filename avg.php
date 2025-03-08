@@ -1,11 +1,11 @@
 <?php
 
-function sredia_zwykla(x,y){
-	return "srednia zwykla";
+function sredia_zwykla(a,b){
+	return (waga);
 }
 
-function srednia_wazona(x,y){
-	return "srednia wazona";
+function srednia_wazona(a,b){
+	return (lol);
 }
 
 ?>
